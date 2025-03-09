@@ -1,3 +1,4 @@
+![17415318362913448972997722016745](https://github.com/user-attachments/assets/de93befc-c87b-4738-8fb8-bb998337e406)
 ---
 title: Wallet Configuration - BNB Smart Chain (BSC)
 ---
